@@ -1,0 +1,53 @@
+
+{
+    "result" :
+[{
+    "firstName" : "Hritushree",
+    "lastName" : "Mog",
+    "email" : "hritu345@gmail.com"
+},
+{
+    "firstName" : "Jhon",
+    "lastName" : "Doe",
+    "email" : "jho123@gmail.com"
+},
+{
+    "firstName" : "Justin",
+    "lastName" : "jacob",
+    "email" : "jus215@gmail.com"
+},
+{
+    "firstName" : "Celly",
+    "lastName" : "More",
+    "email" : "cell23@gmail.com"
+},
+{
+    "firstName" : "Moira",
+    "lastName" : "Doe",
+    "email" : "mor123@gmail.com"
+},
+{
+    "firstName" : "Krinstin",
+    "lastName" : "Gio",
+    "email" : "kis233@gmail.com"
+},
+{
+    "firstName" : "Loreal",
+    "lastName" : "Dilalik",
+    "email" : "lor323@gmail.com"
+},
+{
+    "firstName" : "Gorgina",
+    "lastName" : "Gio",
+    "email" : "gor123@gmail.com"
+},
+{
+    "firstName" : "Kyle",
+    "lastName" : "Bruis",
+    "email" : "kyl123@gmail.com"
+}
+]
+}
+
+
+

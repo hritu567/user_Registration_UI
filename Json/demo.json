@@ -1,0 +1,19 @@
+{
+    "result" :
+[{
+    "firstName" : "Hritushree",
+    "lastName" : "Mog",
+    "email" : "hritu345@gmail.com"
+},
+{
+    "firstName" : "Jhon",
+    "lastName" : "Doe",
+    "email" : "jho123@gmail.com"
+},
+{
+    "firstName" : "Justin",
+    "last Name" : "jacob",
+    "email" : "jus215@gmail.com"
+}
+]
+}

@@ -1,0 +1,50 @@
+
+#table{
+    border-collapse: collapse;
+    width: 90%;
+}
+#table th{
+    border: 1px solid black;
+    padding: 8px;
+    background-color: cornflowerblue;
+}
+table{
+    margin-left: 55px;
+    margin-top: 25px;
+    border-collapse: collapse;
+  
+  }
+h1{
+    font-size: 300%;
+    text-align: center;
+}
+h2
+{
+    margin-left: 55px;
+}
+
+.tab{
+    width: 90%;
+    border: 1px solid black;
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.child{ 
+    height: 20%;
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.pbutton{
+    background-color:cornflowerblue;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 20px;
+    color: black;
+    margin-left: 55px;
+    border-radius: 5px;
+}

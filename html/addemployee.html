@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <title>Add employee Form</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=EB+Garamond&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/addemployee.css">
+</head>
+<body>
+    <div class="container">
+        <form id="form" action="../html/dashboard.html" onsubmit="return validation()">
+            <h1 class="form__title">Add employee</h1>
+            <div class="form__input-group ">
+                <input type="text" id="firstName" class="form__input" autofocus placeholder="First Name">
+               <span id="ferror" class="error_text"></span>
+            </div>
+            <div class="form__input-group">
+                <input type="text" id="lastName" class="form__input" autofocus placeholder="Last Name">
+                <span id="lerror" class="error_text"></span>
+            </div>
+            <div class="form__input-group">
+                <input type="text" id="email" class="form__input" autofocus placeholder="Email Address">
+                <span id="eerror" class="error_text"></span>
+            </div>
+            <button class="form__button" type="submit">Submit</button>
+        </form>
+    </div>
+    <script src="../JS/addemployee.js"></script>
+</body>
+</html>
